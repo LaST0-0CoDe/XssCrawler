@@ -1,8 +1,5 @@
 # XSSRecon - Reflected XSS Scanner
-![python](https://img.shields.io/pypi/pyversions/Django.svg)
-![size](https://img.shields.io/github/size/ak-wa/XSSRecon/xssrecon.py.svg)
-![lastcommit](https://img.shields.io/github/last-commit/ak-wa/XSSRecon.svg)
-![follow](https://img.shields.io/github/followers/ak-wa.svg?label=Follow&style=social)
+
 
 
 * Scans a website for reflected Cross-Site-Scripting
