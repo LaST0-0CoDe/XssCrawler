@@ -1,4 +1,4 @@
-# XSSRecon - Reflected XSS Scanner
+# XSSCrawler - Reflected XSS Scanner
 
 
 
